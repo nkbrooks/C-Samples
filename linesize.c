@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*This program scans and prints out read lines with the line size*/
 int main(){
  int line_count = 0; /* counts number of lines */
  int out_of_bounds = 0;
