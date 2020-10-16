@@ -10,7 +10,7 @@ int main(void) {
   complete_array(arr, 0, 9, 2);
   printf("%d\n", sum_array(arr, 10));
 
-  increase_size_array(arr, 10);
+  increase_array_size(arr, 10);
   printf("%d\n", sum_array(arr, 10));
 
   return 0;
