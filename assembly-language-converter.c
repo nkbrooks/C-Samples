@@ -1,4 +1,6 @@
-/*Natalie Brooks - 116009829 - Project 3*/
+/*This is a sample CPU that takes instructions written in hexidecimal to readable machine language 
+with bit mapping*/
+
 #include <stdio.h>
 #include "machine.h"
 
