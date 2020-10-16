@@ -1,5 +1,4 @@
-/*Natalie Brooks, 116009829, nkbrooks
- */
+
 #include <stdio.h>
 #include <math.h>
 #define MAX 50
