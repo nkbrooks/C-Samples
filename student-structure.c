@@ -1,5 +1,4 @@
-/*Natalie Brooks - 116009829 - Project 3*/
-/*Project 4 s a project the implements structure use with simple string maniupulation. Moreover, string library functions are also implemented in this project.*/
+/*The program implements structure use with simple string maniupulation with string library functions.*/
 
 #include <stdio.h>
 #include "student.h"
