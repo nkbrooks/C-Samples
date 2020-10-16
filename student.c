@@ -1,5 +1,5 @@
-/*Natalie Brooks - 116009829 - Project 3*/
-/*Project 5 is  a project the implements structure use with simple string maniupulation. Moreover, string library functions are also implemented in this project.*/
+/*The program implements structure use with simple string maniupulation and
+memory allocation methods for the student structure*/
 
 #include <stdio.h>
 #include "student.h"
